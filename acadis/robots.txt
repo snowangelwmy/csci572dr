@@ -1,0 +1,31 @@
+User-agent: *
+
+Disallow: /ac/
+Disallow: /account/
+Disallow: /browse/viewCollectionFilesInitial
+Disallow: /browse/viewCollectionFilesLicenseAgreement
+Disallow: /browse/viewLogicalFile
+Disallow: /download
+Disallow: /download.htm
+Disallow: /download.html
+Disallow: /file
+Disallow: /files
+Disallow: /flash/
+Disallow: /images/
+Disallow: /js/
+Disallow: /login/
+Disallow: /oai/
+Disallow: /observing/
+Disallow: /openid/
+Disallow: /publish/
+Disallow: /remote/
+Disallow: /saml/
+Disallow: /search
+Disallow: /search.htm
+Disallow: /search.html
+Disallow: /themes/
+Disallow: /trackback/
+Disallow: /webstart/
+Disallow: /workspace/
+
+Crawl-delay: 10
