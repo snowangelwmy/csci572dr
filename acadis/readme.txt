@@ -1,4 +1,4 @@
-URL seed list:
+# URL seed list:
 	seed.txt
 	
 apache-nutch-1.9
