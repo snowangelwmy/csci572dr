@@ -14,7 +14,7 @@ solr-4.10.2
 	schema.xml
 
 Some statistics about the crawled data:
-Totally 29642 documents have been crawled, including text/html (30166), application/xhtml+xml (1449), image/png (513), image/gif (515), application/rss+xml (69), text/css (34), application/javascript (29), application/atom+xml (22), image/jpeg (17), application/xml (13), and text/x-java-source (3).
+Totally 29642 documents have been crawled, including text/html (27304), application/xhtml+xml (1449), image/png (500), image/gif (204), application/rss+xml (68), text/css (34), application/javascript (28), application/atom+xml (22), image/jpeg (17), application/xml (13), and text/x-java-source (3).
 
 Problems of the crawled data:
 1: Robot denied problem due to the "robots.txt" file in the AMD website (http://gcmd.gsfc.nasa.gov/robots.txt), which could be solved by following the "Nutch Tutorial for ACADIS Website.docx" to disable robot checks, and recrawl the AMD website to get a number of science data.
